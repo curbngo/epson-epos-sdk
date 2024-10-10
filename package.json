@@ -1,0 +1,30 @@
+{
+  "name": "epos-device-sdk",
+  "version": "1.0.0",
+  "description": "JavaScript SDK for communicating with Epson POS devices",
+  "main": "src/epson-epos-sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "epson",
+    "epos",
+    "pos",
+    "sdk",
+    "printer",
+    "cash-drawer",
+    "customer-display"
+  ],
+  "author": "Seiko Epson Corporation",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curbngo/epos-device-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/curbngo/epos-device-sdk/issues"
+  },
+  "homepage": "https://github.com/curbngo/epos-device-sdk#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
